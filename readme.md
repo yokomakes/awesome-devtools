@@ -91,6 +91,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Strapi](https://strapi.io/) - Open-source headless CMS.
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
+* [Spiderhash](https://spiderhash.io/) - Webhook debugging and inspection tool for capturing, replaying, and troubleshooting webhook/API events.
 
 ## Design & UI Tools
 
