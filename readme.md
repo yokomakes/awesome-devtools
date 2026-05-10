@@ -49,6 +49,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Claude Code](https://claude.ai/code) - Anthropic's official CLI for Claude.
 * [Cline](https://github.com/cline/cline) - AI-powered code assistant.
 * [OpenCode](https://opencode.ai/) - AI coding agent built for the terminal.
+* [agenttrace](https://github.com/luoyuctl/agenttrace) - Local TUI and reports for inspecting AI coding-agent sessions, costs, tool calls, and run history.
 
 ## IDEs & Code Editors
 
