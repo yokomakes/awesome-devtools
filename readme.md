@@ -139,6 +139,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Notion](https://www.notion.so/) - Workspace for notes, docs, and tasks.
 * [Loom](https://www.loom.com/) - Video messaging for work.
 * [Miro](https://miro.com/) - Online whiteboard for collaboration.
+* [DevBox Tools](https://devbox.tools/) - Browser-based toolbox for common developer utilities including JSON, Base64, UUID, hashing, regex, encoding, timestamps, and more.
 
 ## Database Migration & DevOps
 * [Liquibase](https://www.liquibase.org/) - Open-source database schema change management with multi-database support.
