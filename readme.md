@@ -1,6 +1,6 @@
 # Awesome DevTools
 
-> A curated list of awesome developer tools and services — from cloud platforms and IDEs to AI-powered coding assistants and productivity utilities.
+> A curated list of awesome developer tools and services â€” from cloud platforms and IDEs to AI-powered coding assistants and productivity utilities.
 
 Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
@@ -34,7 +34,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Netlify](https://www.netlify.com/) - All-in-one platform for automating modern web projects.
 * [AWS](https://aws.amazon.com/) - Comprehensive cloud computing services platform.
 * [Google Cloud Platform](https://cloud.google.com/) - Scalable and secure cloud infrastructure.
-* [Azure](https://azure.microsoft.com/) - Microsoft’s cloud computing platform.
+* [Azure](https://azure.microsoft.com/) - Microsoftâ€™s cloud computing platform.
 * [DigitalOcean](https://www.digitalocean.com/) - Developer-friendly cloud for small apps.
 * [Render](https://render.com/) - Unified cloud to build and run apps with ease.
 
@@ -83,7 +83,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## APIs & Backends
 
-* [Firebase](https://firebase.google.com/) - Google’s BaaS for realtime apps.
+* [Firebase](https://firebase.google.com/) - Googleâ€™s BaaS for realtime apps.
 * [Supabase](https://supabase.com/) - Open-source Firebase alternative.
 * [Hasura](https://hasura.io/) - Instant GraphQL APIs on your data.
 * [PocketBase](https://pocketbase.io/) - Lightweight local backend with realtime and auth.
@@ -131,6 +131,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [JSON Viewer](https://jsonviewer.io/) - Format and view JSON in the browser.
 
 ## Productivity & Misc
+
+* [Vacato](https://vacato.io/) - RDAP domain watchlist with Telegram/email alerts when names become available (free tier).
 
 * [Raycast](https://www.raycast.com/) - Mac launcher for dev productivity.
 * [Linear](https://linear.app/) - Issue tracking built for modern teams.
