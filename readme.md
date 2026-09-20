@@ -140,6 +140,9 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Loom](https://www.loom.com/) - Video messaging for work.
 * [Miro](https://miro.com/) - Online whiteboard for collaboration.
 
+- [NextReset](https://nextreset.ai/) - Source-linked Codex reset history, official AI incident updates, and a browser-local personal reset timer.
+
+
 ## Database Migration & DevOps
 * [Liquibase](https://www.liquibase.org/) - Open-source database schema change management with multi-database support.
 * [Flyway](https://flywaydb.org/) - Lightweight, SQL-based database version control and migration tool.
