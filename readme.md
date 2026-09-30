@@ -120,6 +120,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ReadMe](https://readme.com/) - Interactive API documentation builder.
 * [Obsidian](https://obsidian.md/) - Markdown-based knowledge base and note-taking tool.
 * [Logseq](https://logseq.com/) - Local-first, plain text knowledge management system.
+* [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha Rust knowledge store with encrypted, append-only records, a CLI, and scoped MCP access for agents.
 
 ## Browser Extensions
 
