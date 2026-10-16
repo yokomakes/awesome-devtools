@@ -120,6 +120,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [ReadMe](https://readme.com/) - Interactive API documentation builder.
 * [Obsidian](https://obsidian.md/) - Markdown-based knowledge base and note-taking tool.
 * [Logseq](https://logseq.com/) - Local-first, plain text knowledge management system.
+* [Glim](https://github.com/NeoPanic/Glim) - Free, open-source macOS file viewer for Markdown with diagrams, JSON trees, CSV tables, PDFs, images and source code.
 
 ## Browser Extensions
 
