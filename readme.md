@@ -91,6 +91,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Strapi](https://strapi.io/) - Open-source headless CMS.
 * [Directus](https://directus.io/) - Real-time data platform and CMS.
 * [Postman](https://www.postman.com/) - All-in-one API platform for building and working with APIs.
+* [CurlShot](https://curlshot.com/) - Screenshot API that turns any URL, HTML or Markdown into a PNG, PDF or scrolling video, with an MCP server for AI agents.
 
 ## Design & UI Tools
 
