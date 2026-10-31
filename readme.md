@@ -107,6 +107,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Jest](https://jestjs.io/) - Delightful JavaScript testing framework.
 * [Playwright](https://playwright.dev/) - End-to-end testing for modern web apps.
 * [Cypress](https://www.cypress.io/) - Fast, easy testing for anything that runs in a browser.
+* [agent-qa](https://vostride.com) - Natural-language web and mobile testing via CLI and MCP, with memidex persistent memory, validated self-improvement, and reviewable run evidence.
 * [Vitest](https://vitest.dev/) - Vite-native unit test framework.
 * [ESLint](https://eslint.org/) - Linting utility for JavaScript and TypeScript.
 * [Prettier](https://prettier.io/) - Opinionated code formatter.
