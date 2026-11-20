@@ -132,6 +132,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 ## Productivity & Misc
 
+* [BestJSON](https://bestjson.com/) - Format, validate, preview repairs and compare JSON structures locally in the browser.
 * [Raycast](https://www.raycast.com/) - Mac launcher for dev productivity.
 * [Linear](https://linear.app/) - Issue tracking built for modern teams.
 * [Cron](https://cron.com/) - Next-gen calendar app for professionals.
